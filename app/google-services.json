@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710744535662",
+    "project_id": "marxsaver-bdefd",
+    "storage_bucket": "marxsaver-bdefd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710744535662:android:79316e4b7fc609460eac7f",
+        "android_client_info": {
+          "package_name": "com.example.marxsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710744535662-q9g23p9gshgar1it3lrvk7vhrr6die3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pf-p9HLpP8w_q1Muabexvbsoe-Yaa0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710744535662-q9g23p9gshgar1it3lrvk7vhrr6die3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
